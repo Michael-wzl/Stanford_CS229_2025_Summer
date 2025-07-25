@@ -1,0 +1,1 @@
+I cannot upload the submission.zip file to Gradescope, so I can only refer Github. However, mnist/image_train.csv is too large to be uploaded to Github. Please download it from the following link if needed. Thank you!
